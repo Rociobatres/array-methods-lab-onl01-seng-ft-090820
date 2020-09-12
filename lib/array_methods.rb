@@ -1,9 +1,9 @@
 # lib/array_methods.RUBY_VERSION
 
 def
-using_include(array, element1)
-array.include?
-(TRUE)
+  using_include(array, element)
+    array.include?
+  (element)
 end
 
 def using_sort(array)
