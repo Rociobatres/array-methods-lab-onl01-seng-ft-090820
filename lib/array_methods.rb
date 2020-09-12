@@ -2,7 +2,7 @@
 
 def
   using_include(array,element)
-    array.include?
+    (array).include?
   (element)
 end
 
